@@ -21,6 +21,9 @@ Bot Architect 深入解析复杂的项目需求，将其细化为可管理的子
 ### 任务执行交互流程
 ![任务执行交互流程](https://github.com/BotArchitect/.github/blob/main/design/task_execution_flow_diagram.svg.svg "任务执行交互流程")
 
+## 任务流示例
+这个[demo](https://github.com/BotArchitect/GPT4Demo)展示了如何使用chatGPT4.0实现一个简单的爬虫系统。包含每个具体的任务执行过程以及人工review过程。实际Bot Architect的执行流程跟这类似。
+
 ## 应用场景
 - **软件开发**：涵盖从需求分析到代码实现的完整流程。
 - **创意内容制作**：管理从概念构思到内容创作的整个过程。

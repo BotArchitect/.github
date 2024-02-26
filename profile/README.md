@@ -22,9 +22,13 @@ Bot Architect delves into complex project requirements, breaking them down into 
 ### Task Execution Flow
 ![Task Execution Flow](https://github.com/BotArchitect/.github/blob/main/design/task_execution_flow_diagram.svg.svg "Task Execution Flow")
 
+## Task Flow Demo
+This [demo](https://github.com/BotArchitect/GPT4Demo) shows how to use chatGPT4.0 to implement a simple crawler system. Includes each specific task execution process and manual review process. The actual execution process of Bot Architect is similar to this.
+
 ## Use Cases
 - **Software Development**: Covers the entire process from requirement analysis to code implementation.
 - **Creative Content Creation**: Manages the entire process from concept ideation to content creation.
+
 
 ## Distinction
 What sets Bot Architect apart from other task orchestration platforms is its profound use of AI for project management and task organization. Our platform is more than just an automation tool; it's an intelligent collaborator in project management. AI here doesn't just play the role of an executor but also acts as a director/architect.
