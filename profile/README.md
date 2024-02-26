@@ -5,7 +5,9 @@
 Bot Architect is an innovative platform designed to maximize the potential applications of large language models (LLMs), enabling AI to not only execute specific tasks but also play a central role in project management and organization.
 
 ## Core Design
-Bot Architect delves into complex project requirements, breaking them down into manageable sub-tasks that are then handled by subsequent AI processes, gradually iterating towards a complete project.
+Current large models are somewhat limited by context; for example, they can write a piece of code or generate a short video, but it's difficult for them to write an entire project or produce a full-length movie.
+
+Bot Architect uses AI to decompose high-level project requirements into more specific, detailed design and coding tasks, which are then handled by subsequent AI focused on those aspects, iteratively evolving into a complete project.
 
 ## Key Features
 - **Intelligent Task Decomposition**: Automatically breaks down complex projects into smaller, more manageable task units, providing accurate context and prompts.
@@ -31,7 +33,7 @@ This [demo](https://github.com/BotArchitect/GPT4Demo) shows how to use chatGPT4.
 
 
 ## Distinction
-What sets Bot Architect apart from other task orchestration platforms is its profound use of AI for project management and task organization. Our platform is more than just an automation tool; it's an intelligent collaborator in project management. AI here doesn't just play the role of an executor but also acts as a director/architect.
+What sets Bot Architect apart from other task orchestration platforms is its profound use of AI for project management and task organization. AI here doesn't just play the role of an executor but also acts as a director/architect.
 
 ## Contribution
 We are always looking for innovative minds to join our exploration. Whether you are a developer, a project manager, or an AI enthusiast, there's a place for you at Bot Architect. Here's how you can get involved:
