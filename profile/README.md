@@ -22,7 +22,7 @@ Bot Architect delves into complex project requirements, breaking them down into 
 ### Task Execution Flow
 ![Task Execution Flow](https://github.com/BotArchitect/.github/blob/main/design/task_execution_flow_diagram.svg.svg "Task Execution Flow")
 
-## Task Flow Demo
+## Proof of concept
 This [demo](https://github.com/BotArchitect/GPT4Demo) shows how to use chatGPT4.0 to implement a simple crawler system. Includes each specific task execution process and manual review process. The actual execution process of Bot Architect is similar to this.
 
 ## Use Cases
