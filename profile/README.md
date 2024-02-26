@@ -1,5 +1,5 @@
 # Welcome to Bot Architect!
-[中文文档](./README_zh.md)
+[中文文档](README_zh.md)
 
 ## Overview
 Bot Architect is an innovative platform designed to maximize the potential applications of large language models (LLMs), enabling AI to not only execute specific tasks but also play a central role in project management and organization.
@@ -15,6 +15,12 @@ Bot Architect delves into complex project requirements, breaking them down into 
 - **Collaboration Platform**: Creates an interface where humans and AI can collaborate effectively, with manual review and modification of AI outputs. Ensures all results are documented and analyzed comprehensively.
 - **Results Integration**: Integrates the outcomes of various sub-tasks to form a coherent project output.
 - **Feedback and Iteration**: Implements a system for continuous learning from feedback, allowing AI to improve its methodologies and outputs over time.
+
+## Architecture
+### Overall
+![Overall Architecture](../design/OverallArchitecture.png "Overall Architecture")
+### Task Execution Flow
+![Task Execution Flow](../design/task_execution_flow_diagram.svg.svg "Task Execution Flow")
 
 ## Use Cases
 - **Software Development**: Covers the entire process from requirement analysis to code implementation.
@@ -33,6 +39,7 @@ If you have any questions or suggestions, please contact us via [GitHub Issues](
 
 ## Team Collaboration
 The team currently consists of one member. Feel free to reach out for a chat.
+
 Contact email: vandebio1997@gmail.com, preferably after 2 PM Beijing time (UTC+8).
 
 ---
