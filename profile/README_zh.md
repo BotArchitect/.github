@@ -17,9 +17,9 @@ Bot Architect 深入解析复杂的项目需求，将其细化为可管理的子
 
 ## 架构
 ### 整体架构
-![整体架构](../design/OverallArchitecture.png "整体架构")
+![整体架构](https://github.com/BotArchitect/.github/blob/main/design/OverallArchitecture.png "整体架构")
 ### 任务执行交互流程
-![任务执行交互流程](../design/task_execution_flow_diagram.svg.svg "任务执行交互流程")
+![任务执行交互流程](https://github.com/BotArchitect/.github/blob/main/design/task_execution_flow_diagram.svg.svg "任务执行交互流程")
 
 ## 应用场景
 - **软件开发**：涵盖从需求分析到代码实现的完整流程。

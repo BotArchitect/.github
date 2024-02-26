@@ -1,5 +1,5 @@
 # Welcome to Bot Architect!
-[中文文档](README_zh.md)
+[中文文档](https://github.com/BotArchitect/.github/blob/main/profile/README_zh.md)
 
 ## Overview
 Bot Architect is an innovative platform designed to maximize the potential applications of large language models (LLMs), enabling AI to not only execute specific tasks but also play a central role in project management and organization.
@@ -18,9 +18,9 @@ Bot Architect delves into complex project requirements, breaking them down into 
 
 ## Architecture
 ### Overall
-![Overall Architecture](../design/OverallArchitecture.png "Overall Architecture")
+![Overall Architecture](https://github.com/BotArchitect/.github/blob/main/design/OverallArchitecture.png "Overall Architecture")
 ### Task Execution Flow
-![Task Execution Flow](../design/task_execution_flow_diagram.svg.svg "Task Execution Flow")
+![Task Execution Flow](https://github.com/BotArchitect/.github/blob/main/design/task_execution_flow_diagram.svg.svg "Task Execution Flow")
 
 ## Use Cases
 - **Software Development**: Covers the entire process from requirement analysis to code implementation.
